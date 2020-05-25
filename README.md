@@ -17,7 +17,7 @@ The notebook goes through various steps of model-based learning
   - Percentage of people who vape in each usage group is the target data (y).
 - Split data into training and test sets
 - Build a model and train it.
-- Test your model
+- Test your model using test set.
 - Predict for unknown data point
 - Calculate metrics for evaluation of model
 - Draw regression line - determine slope and intercept of the line
