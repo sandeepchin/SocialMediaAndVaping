@@ -1,4 +1,4 @@
-# SocialMediaAndVaping
+# Social Media And Vaping
 
 The goal of this work is to determine whether spending time on social media has an affect on vaping.
 
