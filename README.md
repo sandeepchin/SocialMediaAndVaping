@@ -8,13 +8,13 @@ SocialMediaAndVaping.py is a standalone python file containing all the code from
 SocialMediaAndVaping.html is a html version of above Jupyter Notebook.
 
 The notebook goes through various steps of model-based learning
-- Preprocessing 
-- Data visualization univariate and bivariate analysis
+- Preprocessing data
+- Data visualization for univariate and bivariate analysis
   - involves converting categorical data into numeric data
   - Social media usage is mapped into 6 groups numbered 0-5.
 - Determine independent and dependent(target) variables
   - Social media usage is independent variable(x)
-  - Percentage of people who vape in each usage group is the target data.
+  - Percentage of people who vape in each usage group is the target data (y).
 - Split data into training and test sets
 - Build a model and train it.
 - Test your model
