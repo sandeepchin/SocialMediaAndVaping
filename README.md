@@ -32,6 +32,6 @@ Conclusions:
 Ho (null hypothesis) : Social media has no influence on Vaping <br>
 Ha (alternative hypothesis): Social media has influence on Vaping <br>
 
-- t statistic > talpha/2, therefore we reject Ho. 
+- test statistic > talpha/2, therefore we reject Ho. 
 - Therefore, social media has influence over vaping. 
 
