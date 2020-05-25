@@ -7,22 +7,22 @@ SocialMediaAndVaping.ipynb is a Jupyter Notebook file that contains Python code 
 SocialMediaAndVaping.py is a standalone python file containing all the code from the above notebook.
 SocialMediaAndVaping.html is a html version of above Jupyter Notebook.
 
-The notebook goes through various steps of model-based learning
-- Preprocessing data
-- Data visualization for univariate and bivariate analysis
-  - involves converting categorical data into numeric data
+The notebook goes through various steps of model-based learning:
+- Preprocessing data.
+- Data visualization for univariate and bivariate analysis.
+  - involves converting categorical data into numeric data.
   - Social media usage is mapped into 6 groups numbered 0-5.
-- Determine independent and dependent(target) variables
-  - Social media usage is independent variable(x)
+- Determine independent and dependent(target) variables.
+  - Social media usage is independent variable(x).
   - Percentage of people who vape in each usage group is the target data (y).
-- Split data into training and test sets
+- Split data into training and test sets.
 - Build a model and train it.
 - Test your model using test set.
-- Predict probability of vaping for an unknown data point(usage group)
-- Calculate metrics for evaluation of model
-- Draw the regression line - determine the slope and intercept of the line
-- Draw conclusions from the model
-- Calculate test statistic
+- Predict probability of vaping for an unknown data point(usage group).
+- Calculate metrics for evaluation of model.
+- Draw the regression line - determine the slope and intercept of the line.
+- Draw conclusions from the model.
+- Calculate test statistic.
 
 
 
