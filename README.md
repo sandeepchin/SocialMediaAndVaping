@@ -24,12 +24,14 @@ The notebook goes through various steps of model-based learning
 - Draw conclusions from the model
 - Calculate test statistic
 
-Coefficient of correlation shows a strong positive correlation between social media usage and vaping.
 
-Conclusions on the model:
-Ho (null hypothesis) : Social media has no influence on Vaping
-Ha (alternative hypothesis): Social media has influence on Vaping
 
-t statistic > talpha/2 therefore we reject Ho 
-Therefore, social media has influence over vaping. 
+Conclusions:
+- Coefficient of correlation shows a strong positive correlation between social media usage and vaping.
+
+Ho (null hypothesis) : Social media has no influence on Vaping <br>
+Ha (alternative hypothesis): Social media has influence on Vaping <br>
+
+- t statistic > talpha/2 therefore we reject Ho 
+- Therefore, social media has influence over vaping. 
 
